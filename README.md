@@ -7,7 +7,6 @@
 
 > Email: leewyatt7788@gmail.com
 
-> javafx 交流QQ群 518914410
 > 目前的 加群问题: JavaFX是什么? 答: JAVA图形界面技术
 
 There are a variety of game props.
